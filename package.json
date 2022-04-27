@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@discordjs/collection": "^0.6.0",
+    "guilded.js": "^0.7.1"
+  }
+}
